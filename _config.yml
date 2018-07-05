@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/vncoelho.jpg"
+  avatar           : "/assets/images/imcoelho.jpg"
   bio              : "Just another boring, tattooed, time traveling, designer."
   location         : "Ouro Preto/MG, Brazil"
   email            :
@@ -113,11 +113,11 @@ author:
   flickr           :
   facebook         : *facebook
   foursquare       :
-  github           : "vncoelho"
+  github           : "imcoelho"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "vitor_nature"
+  instagram        : "igormco"
   lastfm           :
   linkedin         :
   pinterest        :
