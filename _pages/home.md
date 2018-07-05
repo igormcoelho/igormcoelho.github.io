@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fas fa-download'></i> About me"
   cta_url: "/about/"
   caption:
-excerpt: 'Vitor is a researcher and human passionate for the nature and all living creatures.​<br />'
+excerpt: 'This website is under construction based on Igor's Brother: Vitor is a researcher and human passionate for the nature and all living creatures.​<br />'
 ---
 
 I have been trying to release my research as open-source projects, open for external contributions and suggestions.
