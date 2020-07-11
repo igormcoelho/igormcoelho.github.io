@@ -4,7 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+---
 remote_theme             : "mmistakes/minimal-mistakes"
 # theme			 : "minimal-mistakes-jekyll"
 
@@ -16,7 +16,7 @@ title                    : "Igor Machado Coelho - Website"
 title_separator          : "-"
 name                     : &name "Igor Machado Coelho" # &name is a YAML anchor which can be *referenced later
 description              : &description "Personal website using minimal-mistakes-jekyll."
-url                      : https://igormcoelho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : &url https://igormcoelho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : # "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
