@@ -1,6 +1,7 @@
 
 # Guideliness for running on Linux
 
+
 First step is to install the correct packages. Follow: [GoRails setup](https://gorails.com/setup/ubuntu/18.04)
 
 
