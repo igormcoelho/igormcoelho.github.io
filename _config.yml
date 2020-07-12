@@ -7,7 +7,6 @@
 ---
 remote_theme             : "mmistakes/minimal-mistakes"
 # theme			 : "minimal-mistakes-jekyll"
-
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -103,7 +102,7 @@ author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/imcoelho.jpg"
   bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Ouro Preto/MG, Brazil"
+  location         : "Niterói/RJ, Brazil"
   email            :
   uri              : *url
   home             : *url
@@ -283,6 +282,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:

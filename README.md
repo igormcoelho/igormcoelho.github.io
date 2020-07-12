@@ -25,8 +25,8 @@ git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
 echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
 exec $SHELL
 
-rbenv install 2.5.1
-rbenv global 2.5.1
+rbenv install 2.7.1
+rbenv global 2.7.1
 ruby -v
 ```
 
@@ -35,9 +35,7 @@ Next steps are described at [Jekyll](https://jekyllrb.com/)
 ```
 gem install bundler jekyll
 
-jekyll new my-awesome-site
-
-cd my-awesome-site
+bundle install
 
 bundle exec jekyll serve
 
