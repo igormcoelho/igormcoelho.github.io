@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-lang: en
+title: projetos
+permalink: /projetos/
+lang: pt-br
 lang-ref: igormcoelho-projects
 description: A growing collection of your cool projects.
 nav: true
