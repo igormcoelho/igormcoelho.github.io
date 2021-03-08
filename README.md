@@ -1,4 +1,25 @@
-# al-folio
+# igormcoelho
+
+## Basic Instructions
+
+### Build (first `sudo gem install bundler jekyll`)
+
+`bundle exec jekyll serve` -> `http://localhost:4000/`
+
+### Note about `gh-pages` and `jekyll-scholar` plugin
+
+GitHub Pages won't accept non-whitelisted plugins, such as `jekyll-scholar`.
+So, you may not use it online, or build locally and submit `_page` (depends on
+your willingness to edit/build website locally or only on github platform).
+
+### License
+
+On general, everything is licensed CreativeCommons CC-BY 4.0, unless stated otherwise.
+Free free to copy, share, re-use.
+
+Published papers may have specific licenses, and only personal copies of some may be authorized (check each one individually).
+
+## Introduction (al-folio template)
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
