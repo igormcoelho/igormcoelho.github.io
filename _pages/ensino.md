@@ -4,12 +4,28 @@ permalink: /ensino/
 lang: pt-br
 lang-ref: igormcoelho-teaching
 title: ensino
-description: Materials for courses you taught. Replace this text with your description.
+description: Materiais didáticos dos cursos lecionados e em andamento
 nav: true
 ---
 
-Portugues
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Turmas Finalizadas e Em Andamento
 
-Organize your courses by years, topics, or universities, however you like!
+- [Estruturas de Dados para Sistemas de Informação - IC/UFF - 2020.2](https://igormcoelho.github.io/curso-estruturas-de-dados-i/uff-edsi-2020-2)
+    * fev./2021 - mai./2021
+
+- [Estruturas de Dados para Sistemas de Informação - IC/UFF - 2020.1](https://igormcoelho.github.io/curso-estruturas-de-dados-i/uff-edsi-2020-1)
+    * set./2020 - dez./2020
+
+## Materiais Didáticos
+
+Materiais didáticos são disponibilizados sob licença [CreativeCommons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), em Português, no intuito de contribuir com a disseminação do conhecimento para a comunidade brasileira. 
+Existem vídeos pré-gravados dos cursos (apenas algumas aulas ainda foram finalizadas no momento), que seguem a mesma licença.
+
+Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melhor (processo contínuo de revisão).
+
+### Curso de Estruturas de Dados I
+   * [Materiais em PDF/Online](https://igormcoelho.github.io/curso-estruturas-de-dados-i)
+
+### Curso de Pesquisa Operacional I
+   * [Materiais em PDF/Online](https://igormcoelho.github.io/curso-pesquisa-operacional-i)

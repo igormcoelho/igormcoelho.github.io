@@ -17,13 +17,18 @@ social: true  # includes social icons at the bottom of the page
 
 Em construção / Under Construction
 
+<hr/>
+
 (en) Welcome to Igor Machado Coelho website!
 
 Please follow one of the main pages: [about](/about) - [projects](/projects) -
  [teaching](/teaching) 
 
+<hr/>
 
 (pt-br) Bem-vind@ à página de Igor Machado Coelho!
 
 Por-favor siga para uma das seguintes páginas: [sobre](/sobre) - [projetos](/projetos) -
  [ensino](/ensino) 
+
+<hr/>
