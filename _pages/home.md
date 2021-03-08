@@ -9,6 +9,8 @@ description:
 profile:
   align: right
   image: prof_pic.jpg
+  address: >
+    <p>Niterói, Rio de Janeiro, Brazil</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,6 +23,8 @@ Em construção / Under Construction
 
 (en) Welcome to Igor Machado Coelho website!
 
+Igor is Computer Science researcher and professor at [IC/UFF](http://www.ic.uff.br).
+
 Please follow one of the main pages: [about](/about) - [projects](/projects) -
  [teaching](/teaching) 
 
@@ -28,7 +32,9 @@ Please follow one of the main pages: [about](/about) - [projects](/projects) -
 
 (pt-br) Bem-vind@ à página de Igor Machado Coelho!
 
-Por-favor siga para uma das seguintes páginas: [sobre](/sobre) - [projetos](/projetos) -
+Igor é pesquisador de Ciẽncia da Computação e professor no [IC/UFF](http://www.ic.uff.br).
+
+Por favor, vá para uma das seguintes páginas: [sobre](/sobre) - [projetos](/projetos) -
  [ensino](/ensino) 
 
 <hr/>
