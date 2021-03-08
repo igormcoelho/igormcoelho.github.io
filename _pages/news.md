@@ -2,8 +2,6 @@
 layout: about
 title: news
 permalink: /news
-lang: en
-lang-ref: igormcoelho-news
 description: (en) News in multiple languages / (pt-br) Notícias em diversos idiomas #<a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
