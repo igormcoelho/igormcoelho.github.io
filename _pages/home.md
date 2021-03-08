@@ -1,25 +1,29 @@
 ---
-layout: splash
+layout: about
+title: my-home-page
+lang: en-pt-br
+lang-ref: igormcoelho-home
 permalink: /
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  cta_label: "<i class='fas fa-download'></i> About me"
-  cta_url: "/about/"
-  caption:
-excerpt: 'This website is under construction based on Brother Vitor... a researcher and human passionate for the nature and all living creatures.​<br />'
+description: 
+
+profile:
+  align: right
+  image: prof_pic.jpg
+
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-I have been trying to release my research as open-source projects, open for external contributions and suggestions.
+Em construção / Under Construction
 
-Some general ideas that have been spread are:
-* Promote the evolution to distributed systems;
-* Promote social and software freedom;
+(en) Welcome to Igor Machado Coelho website!
 
-<!---
-
-{% include feature_row id="intro" type="center" %}
+Please follow one of the main pages: [about](/about/) - [publications](/publications/) -
+ [teaching](/teaching/) 
 
 
-{% include feature_row %}
--->
+(pt-br) Bem-vind@ à página de Igor Machado Coelho!
+
+Por-favor siga para uma das seguintes páginas: [sobre](/sobre/) -  
+ [ensino](/ensino/) 
