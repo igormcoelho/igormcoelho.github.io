@@ -11,6 +11,23 @@
 `#sudo apt-get install icoutils`
 `cd assets/img/ && icotool -o favicon.ico -c prof_pic.png` 
 
+### Updating bibliography
+
+GitHub Pages don't allow plugins, such as the `jekyll-scholar` used here. 
+To circumvent this issue, you can run locally and remove generating scripts from exclude list:
+
+```
+exclude:
+  - _pages/generate_all_papers.md
+  - _pages/generate_selected_papers.md
+```
+
+Then execute `python3 cache_publications.py`.
+
+The `_bibliography/papers.bib` will be cached on `_includes/all_papers_cache.html` and `_includes/selected_papers_cache.html`.
+
+This way, `_site` will still be generated automatically by github, so you can use online editor to change anything (besides the bibliography list, that needs to be updated locally).
+
 
 ### Note about `gh-pages` and `jekyll-scholar` plugin
 
