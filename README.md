@@ -22,7 +22,12 @@ exclude:
   - _pages/generate_selected_papers.md
 ```
 
-Then execute `python3 cache_publications.py`.
+Then execute:
+
+```
+python3 -m pip install beautifulsoup4
+python3 cache_publications.py
+```
 
 The `_bibliography/papers.bib` will be cached on `_includes/all_papers_cache.html` and `_includes/selected_papers_cache.html`.
 
