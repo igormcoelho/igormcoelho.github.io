@@ -10,18 +10,18 @@
 
     <!-- ONLY SUPPORTED TRANSLATION FOR EXACTLY TWO LANGUAGE MATCHING-->
     {% if pages.size > 1 %} 
-
+    <hr/>
     <footer class="lang-options">
-      <em>English (en) / Português (pt-br):</em>
-      <ul>
-      {% for translated-page in pages %}
-      <li><a href="{{ site.base-url }}{{ translated-page.url }}" class="{{ translated-page.lang }}">{{ translated-page.lang }}</a></li>
-      {% endfor %}
-      </ul>
+      <div class="container">
+        <em>English (en) / Português (pt-br):</em>
+        <ul>
+        {% for translated-page in pages %}
+        <li><a href="{{ site.base-url }}{{ translated-page.url }}" class="{{ translated-page.lang }}">{{ translated-page.lang }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
     </footer>
-
     {% endif %}
-
 
 {% endif %}
 
