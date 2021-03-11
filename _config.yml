@@ -8,7 +8,7 @@ middle_name: Machado
 last_name: Coelho
 email: imcoelho@ic.uff.br
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Website -> Igor Machado Coelho. Design [*folio](https://github.com/bogoli/-folio).
 footer_text: >
   CreativeCommons <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC-BY 4.0</a>.
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
