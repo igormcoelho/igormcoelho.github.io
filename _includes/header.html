@@ -53,7 +53,7 @@
           <!-- "Posts" (in fact, will redirect to news page...) -->
           {% if site.blog_name %}
           <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-            <a class="nav-link" href="{{ '/news/' | relative_url }}">
+            <a class="nav-link" href="{{ '/news' | relative_url }}">
               <i class="fas fa-newspaper"></i> &nbsp;
               <!-- news -->
               {% if page.title == "news" %}
