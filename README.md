@@ -6,6 +6,12 @@
 
 `bundle exec jekyll serve` -> `http://localhost:4000/`
 
+### Updating favicon
+`cd assets/img/ && convert -resize 16X16 prof_pic.jpg prof_pic.png`
+`#sudo apt-get install icoutils`
+`cd assets/img/ && icotool -o favicon.ico -c prof_pic.png` 
+
+
 ### Note about `gh-pages` and `jekyll-scholar` plugin
 
 GitHub Pages won't accept non-whitelisted plugins, such as `jekyll-scholar`.

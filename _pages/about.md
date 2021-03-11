@@ -13,7 +13,8 @@ profile:
     <p>Niterói, Rio de Janeiro, Brazil</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: false      # includes a list of papers marked as "selected={true}" (only run locally!)
+selected_papers_cache: true # this can run on github pages
 social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
