@@ -4,11 +4,11 @@ title: materials
 permalink: /materials
 lang: en
 lang-ref: igormcoelho-materials
-description: 
+description: General materials and tutorials
 
 nav: true
 ---
 
-General materials and tutorials (mostly technical)
+See academic courses in Portuguese, section [Materiais](../materiais).
 
 
