@@ -33,19 +33,14 @@ The `_bibliography/papers.bib` will be cached on `_includes/all_papers_cache.htm
 
 This way, `_site` will still be generated automatically by github, so you can use online editor to change anything (besides the bibliography list, that needs to be updated locally).
 
-
-### Note about `gh-pages` and `jekyll-scholar` plugin
-
-GitHub Pages won't accept non-whitelisted plugins, such as `jekyll-scholar`.
-So, you may not use it online, or build locally and submit `_page` (depends on
-your willingness to edit/build website locally or only on github platform).
-
 ### License
 
 On general, everything is licensed CreativeCommons CC-BY 4.0, unless stated otherwise.
 Free free to copy, share, re-use.
 
 Published papers may have specific licenses, and only personal copies of some may be authorized (check each one individually).
+
+# al-folio
 
 ## Introduction (al-folio template)
 
