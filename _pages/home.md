@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 ![en](/assets/img/60px-Nuvola_English_language_flag.svg.png)
 [Welcome to Igor Machado Coelho website!](/about) - in English <br/>
-Main pages: [about](/about) - [projects](/projects) - [publications](/publications) - [teaching](/teaching) 
+Main pages: [about](/about) - [materials](/materials) - [projects](/projects) - [publications](/publications) - [teaching](/teaching) 
 
 <em>Igor is Computer Science researcher and professor at [IC/UFF](http://www.ic.uff.br)</em>
 
@@ -29,7 +29,7 @@ Main pages: [about](/about) - [projects](/projects) - [publications](/publicatio
 
 ![pt-br](/assets/img/64px-Brazilian_flag_icon_round.svg.png)
 [Bem-vind@ à página de Igor Machado Coelho!](/sobre) - Português (br) <br/>
-Páginas principais: [sobre](/sobre) - [projetos](/projetos) - [publicações](/publicacoes) - [ensino](/ensino)
+Páginas principais: [sobre](/sobre) - [materiais](/materiais) - [projetos](/projetos) - [publicações](/publicacoes) - [ensino](/ensino)
 
 <em>Igor é pesquisador de Ciência da Computação e professor no [IC/UFF](http://www.ic.uff.br)</em>
 
