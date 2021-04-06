@@ -18,9 +18,11 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
 
 #### Curso de Estruturas de Dados I
    * [Materiais em PDF/Online](https://igormcoelho.github.io/curso-estruturas-de-dados-i)
+   * ![last-commit](https://img.shields.io/github/last-commit/igormcoelho/curso-estruturas-de-dados-i)
 
 #### Curso de Pesquisa Operacional I
    * [Materiais em PDF/Online](https://igormcoelho.github.io/curso-pesquisa-operacional-i)
+   * ![last-commit](https://img.shields.io/github/last-commit/igormcoelho/curso-pesquisa-operacional-i)
 
 -------
 
