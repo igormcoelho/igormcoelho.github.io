@@ -17,6 +17,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<meta http-equiv="refresh" content="20;url=/sobre" />
+
+<script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<!--
+<script type="text/javascript">
+var userLang = navigator.language || navigator.userLanguage; 
+if(userLang == 'pt-BR')
+  alert("PORTU");
+alert ("The language is: " + userLang);
+</script>
+-->
+<script type="text/javascript" src="/assets/js/call_swal.js" ></script>
+
+<!--
 <hr/>
 
 ![en](/assets/img/60px-Nuvola_English_language_flag.svg.png)
@@ -34,3 +48,5 @@ Páginas principais: [sobre](/sobre) - [materiais](/materiais) - [projetos](/pro
 <em>Igor é pesquisador de Ciência da Computação e professor no [IC/UFF](http://www.ic.uff.br)</em>
 
 <hr/>
+
+-->
