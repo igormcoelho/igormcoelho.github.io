@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /ensino/
-lang: pt-br
-lang-ref: igormcoelho-teaching
+#lang: pt-br
+#lang-ref: igormcoelho-teaching
 title: ensino
 description: Materiais didáticos dos cursos lecionados e em andamento
 nav: true
