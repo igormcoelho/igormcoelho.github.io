@@ -54,7 +54,7 @@ nav: true
 - [Estruturas de Dados para Sistemas de Informação - IC/UFF - 2021.1](https://igormcoelho.github.io/curso-estruturas-de-dados-i/uff-edsi-2021-1)
     * 14/06/2021 a 25/09/2021
 
-- [Programação de Computadores II para Sistemas de Informação - IC/UFF - 2020.2](https://igormcoelho.github.io/curso-programacao-ii/uff-pc2si-2021-1)
+- [Programação de Computadores II para Sistemas de Informação - IC/UFF - 2021.1](https://igormcoelho.github.io/curso-programacao-ii/uff-pc2si-2021-1)
     * 14/06/2021 a 25/09/2021
 
 - [Estruturas de Dados para Sistemas de Informação - IC/UFF - 2020.2](https://igormcoelho.github.io/curso-estruturas-de-dados-i/uff-edsi-2020-2)

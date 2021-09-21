@@ -49,5 +49,7 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-programacao-ii/slides/3-ponteiros/single_index.html">HTML</a><br/>
     
     <iframe width="560" height="315" src="https://www.youtube.com/embed/G0g0ZUg8O0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <iframe width="560" height="315" src="https://igormcoelho.github.io/curso-programacao-ii/slides/3-ponteiros/single_index.html"></iframe>
   </div>
 </div>
