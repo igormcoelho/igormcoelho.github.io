@@ -28,6 +28,9 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
    * ![last-commit](https://img.shields.io/github/last-commit/igormcoelho/curso-estruturas-de-dados-i)
    * [Playlist no YouTube](https://www.youtube.com/playlist?list=PLWiiA_CLle93LYnkOV-OzxtahTiNioTMD)
 
+<br/>
+
+##### Bloco 1: Revisão
 
 <ul class="nav nav-tabs" id="myTab-ed1" role="tablist">
   <li class="nav-item" role="presentation">
@@ -42,9 +45,28 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
       >0-Revisão Tipos e Módulos C/C++</a
     >
   </li>
+</ul>
+
+<!-- Tab panes -->
+<div class="tab-content">
+  <div class="tab-pane active" id="ed1-revisao" role="tabpanel" aria-labelledby="ed1-revisao-tab">
+    Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/1-revisao-tipos/index.html">JS/HTML</a><br/>
+    YouTube Parte 1/2<br/>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/byZLHu4kTb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br/>
+    YouTube Parte 2/2<br/>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2Bo7MYFCJ0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+
+<br/>
+
+##### Bloco 2: Estruturas de Dados Lineares
+
+<ul class="nav nav-tabs" id="myTab-ed1" role="tablist">
   <li class="nav-item" role="presentation">
     <a
-      class="nav-link"
+      class="nav-link active"
       id="ed1-sacos-tab"
       data-mdb-toggle="tab"
       href="#ed1-sacos"
@@ -82,14 +104,6 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
 
 <!-- Tab panes -->
 <div class="tab-content">
-  <div class="tab-pane active" id="ed1-revisao" role="tabpanel" aria-labelledby="ed1-revisao-tab">
-    Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/1-revisao-tipos/index.html">JS/HTML</a><br/>
-    YouTube Parte 1/2<br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/byZLHu4kTb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <br/>
-    YouTube Parte 2/2<br/>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2Bo7MYFCJ0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
   <div class="tab-pane" id="ed1-sacos" role="tabpanel" aria-labelledby="ed1-sacos-tab">
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/2-sacos/index.html">JS/HTML</a><br/>
   </div>
@@ -103,6 +117,9 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
   </div>  
 </div>
 
+<br/>
+
+##### Bloco 3: Estruturas de Dados em Árvore
 
 <!-- ARVORES -->
 
