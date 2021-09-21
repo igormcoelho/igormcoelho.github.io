@@ -30,7 +30,7 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
 
 <br/>
 
-##### Bloco 1: Revisão
+##### Bloco 1: Introdução e Revisão
 
 <ul class="nav nav-tabs" id="myTab-ed1" role="tablist">
   <li class="nav-item" role="presentation">
