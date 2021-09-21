@@ -94,6 +94,9 @@ collections:
   courses:
     output: true
     permalink: /courses/:path/
+  interests:
+    output: true
+    permalink: /interests/:path/
 
 news_limit: 5
 

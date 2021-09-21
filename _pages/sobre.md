@@ -25,6 +25,8 @@ Em construção / Under Construction
 
 Endereço Profissional: Av. Gal. Milton Tavares de Souza,, s/n - São Domingos, Niterói - RJ, 24210-346
 
+Currículo [Lattes](http://lattes.cnpq.br/5298061910591710).
+
 Coordenador do Grupo de Pesquisa em Algoritmos e Logística Descentralizada (ALODE) - [github](https://github.com/gp-alode) [DGP CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3349181323652323).
 
 ----

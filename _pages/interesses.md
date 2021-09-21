@@ -1,18 +1,16 @@
 ---
 layout: page
-title: cursos
-permalink: /cursos/
+title: interesses
+permalink: /interesses/
 lang: pt-br
-lang-ref: igormcoelho-courses
-description: Cursos do Prof. Igor com materiais abertos no GitHub e vídeos no YouTube.
+lang-ref: igormcoelho-interests
+description: A growing collection of your cool projects.
 nav: true
 ---
 
-Para Materiais Técnicos, veja o [/materiais](/materiais).
-
 <div class="projects grid">
 
-  {% assign sorted_projects = site.courses | sort: "importance" %}
+  {% assign sorted_projects = site.interests | sort: "importance" %}
   {% for project in sorted_projects %}
   <div class="grid-item">
     {% if project.redirect %}
@@ -49,18 +47,3 @@ Para Materiais Técnicos, veja o [/materiais](/materiais).
 {% endfor %}
 
 </div>
-
-
-### Turmas Finalizadas e Em Andamento
-
-- [Estruturas de Dados para Sistemas de Informação - IC/UFF - 2021.1](https://igormcoelho.github.io/curso-estruturas-de-dados-i/uff-edsi-2021-1)
-    * 14/06/2021 a 25/09/2021
-
-- [Programação de Computadores II para Sistemas de Informação - IC/UFF - 2021.1](https://igormcoelho.github.io/curso-programacao-ii/uff-pc2si-2021-1)
-    * 14/06/2021 a 25/09/2021
-
-- [Estruturas de Dados para Sistemas de Informação - IC/UFF - 2020.2](https://igormcoelho.github.io/curso-estruturas-de-dados-i/uff-edsi-2020-2)
-    * fev./2021 - mai./2021
-
-- [Estruturas de Dados para Sistemas de Informação - IC/UFF - 2020.1](https://igormcoelho.github.io/curso-estruturas-de-dados-i/uff-edsi-2020-1)
-    * set./2020 - dez./2020

@@ -5,8 +5,7 @@ permalink: /materiais
 lang: pt-br
 lang-ref: igormcoelho-materials
 description: Coletânea de materiais e tutoriais de uso geral
-
-nav: true
+nav: false
 ---
 
 ### Cursos
