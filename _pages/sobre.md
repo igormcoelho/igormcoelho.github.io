@@ -19,9 +19,11 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 
-Português
+**Português (pt-br)**
 
-Em construção / Under Construction
+_Em construção / Under Construction_
+
+Professor Adjunto no [Instituto de Computação](https://www.ic.uff.br) da [Universidade Federal Fluminense](https://www.uff.br).
 
 Endereço Profissional: Av. Gal. Milton Tavares de Souza,, s/n - São Domingos, Niterói - RJ, 24210-346
 
