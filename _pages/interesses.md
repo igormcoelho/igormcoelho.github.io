@@ -10,6 +10,15 @@ nav: true
 
 Alguém que adora boas músicas, boas viagens e boas caminhadas.
 
+## Interesses tecnológicos
+
+Acredito no surgimento de novas tecnologias sustentáveis que reduzam custos e barreiras, aproximando os cidadãos da tomada de decisão governamental, e também permitindo trocas livres entre pessoas.
+
+Para mais informações:
+- Veja minhas palestras disponíveis no tópico de Blockchain, na listagem de [awesome-cursos-blockchain](https://github.com/gp-alode/awesome-cursos-blockchain/)
+- Veja minhas publicações recentes em tópicos de logística sustentável e descentralizada
+- Veja cursos abertos em [/cursos](/cursos)
+
 
 ## Livros / Autores que mais me influenciaram
 
