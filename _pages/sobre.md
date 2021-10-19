@@ -27,7 +27,7 @@ Professor Adjunto no [Instituto de Computação](https://www.ic.uff.br) da [Univ
 
 Endereço Profissional: Av. Gal. Milton Tavares de Souza,, s/n - São Domingos, Niterói - RJ, 24210-346
 
-Currículo [Lattes](http://lattes.cnpq.br/5298061910591710).
+Listagens públicas: [Currículo Lattes](http://lattes.cnpq.br/5298061910591710) - [adscientificindex](https://www.adscientificindex.com/scientist.php?id=883633) -  [google scholar](https://scholar.google.com/citations?user=EDOt1VIAAAAJ&hl=pt-BR) - [dblp](https://dblp.uni-trier.de/pid/89/8466.html) - [ORCID](https://orcid.org/0000-0001-6373-4907)
 
 Coordenador do Grupo de Pesquisa em Algoritmos e Logística Descentralizada (ALODE) - [github](https://github.com/gp-alode) [DGP CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3349181323652323).
 
