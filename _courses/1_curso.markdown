@@ -11,8 +11,15 @@ lang: pt-br
 
 ### Materiais Didáticos
 
-Materiais didáticos são disponibilizados sob licença [CreativeCommons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), em Português, no intuito de contribuir com a disseminação do conhecimento para a comunidade brasileira. 
-Existem vídeos pré-gravados dos cursos (apenas algumas aulas ainda foram finalizadas no momento), que seguem a mesma licença.
+Materiais didáticos são disponibilizados sob licenças [CreativeCommons](https://creativecommons.org/licenses/), em Português, no intuito de contribuir com a disseminação do conhecimento para a comunidade brasileira. 
+- licença para materiais em texto/slides: [Atribuição - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- licença para materiais em vídeo: [Atribuição, Não Comercial e Sem Derivações - CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+Até 2021, vídeos eram hospedados no YouTube. Em busca de maior transparência e portabilidade,
+a partir de 2022, somente plataformas descentralizadas e federadas serão utilizadas.
+Portanto, utilizamos o protocolo PeerTube, com vídeos hospedados no canal [https://pertur.be/c/curso_estruturas_de_dados_i/](https://pertur.be/c/curso_estruturas_de_dados_i/videos) e redistribuídos via tecnologia webtorrent.
+
+Para Android, recomendo o aplicativo livre [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) disponibilizado no f-droid, que toca vídeos do YouTube e PeerTube.
 
 Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melhor (processo contínuo de revisão).
 
@@ -22,13 +29,16 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
   src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.5.0/mdb.min.js"
 ></script>
 
-
 #### Curso de Estruturas de Dados I
    * [Materiais em PDF/Online](https://igormcoelho.github.io/curso-estruturas-de-dados-i)
    * ![last-commit](https://img.shields.io/github/last-commit/igormcoelho/curso-estruturas-de-dados-i)
    * [Playlist no YouTube](https://www.youtube.com/playlist?list=PLWiiA_CLle93LYnkOV-OzxtahTiNioTMD)
 
 <br/>
+
+<!--
+Dica de Embed no PeerTube: https://thinkmoult.com/embed-peertube-video-on-your-website.html
+-->
 
 ##### Bloco 1: Introdução e Revisão
 
@@ -51,11 +61,19 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
 <div class="tab-content">
   <div class="tab-pane active" id="ed1-revisao" role="tabpanel" aria-labelledby="ed1-revisao-tab">
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/1-revisao-tipos/index.html">JS/HTML</a><br/>
+    <!--
     YouTube Parte 1/2<br/>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/byZLHu4kTb0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br/>
     YouTube Parte 2/2<br/>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2Bo7MYFCJ0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    -->
+    Vídeo (1/2) no PeerTube (stream via webtorrent): https://pertur.be/w/bxtozxWAJwEkdmPhFoNHCV<br/>
+    <iframe src="https://pertur.be/videos/embed/bxtozxWAJwEkdmPhFoNHCV" style="min-height: 400px; width: 100%;" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen">
+    </iframe>
+    Vídeo (2/2) no PeerTube (stream via webtorrent): https://pertur.be/w/ixpbZxGTVfJr7Aw9nxZGsV<br/>
+    <iframe src="https://pertur.be/videos/embed/ixpbZxGTVfJr7Aw9nxZGsV" style="min-height: 400px; width: 100%;" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen">
+    </iframe>
   </div>
 </div>
 
@@ -106,14 +124,25 @@ Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melho
 <div class="tab-content">
   <div class="tab-pane" id="ed1-sacos" role="tabpanel" aria-labelledby="ed1-sacos-tab">
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/2-sacos/index.html">JS/HTML</a><br/>
+    Sem vídeo aqui para o TAD Sacos (ainda) :( <br/>
   </div>
   <div class="tab-pane" id="ed1-pilhas" role="tabpanel" aria-labelledby="ed1-pilhas-tab">
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/3-pilhas/index.html">JS/HTML</a><br/>
+    Vídeo no PeerTube (stream via webtorrent): https://pertur.be/w/mxZj2xv1zAqLzN4F9heoGr<br/>
+    <iframe src="https://pertur.be/videos/embed/mxZj2xv1zAqLzN4F9heoGr" style="min-height: 400px; width: 100%;" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen">
+    </iframe>
+    <!--
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2J1EdzSZ1NQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    -->
   </div>
   <div class="tab-pane" id="ed1-filas" role="tabpanel" aria-labelledby="ed1-filas-tab">
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/4-filas/index.html">JS/HTML</a><br/>
+    Vídeo no PeerTube (stream via webtorrent): https://pertur.be/w/ghhZMd2Dvtqy6ZzP7ZeRwG<br/>
+    <iframe src="https://pertur.be/videos/embed/ghhZMd2Dvtqy6ZzP7ZeRwG" style="min-height: 400px; width: 100%;" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen">
+    </iframe>
+    <!--
     <iframe width="560" height="315" src="https://www.youtube.com/embed/pZ36rzfSxYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    -->
   </div>  
 </div>
 
