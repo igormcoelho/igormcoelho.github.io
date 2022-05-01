@@ -194,18 +194,34 @@ Dica de Embed no PeerTube: https://thinkmoult.com/embed-peertube-video-on-your-w
 <div class="tab-content">
   <div class="tab-pane active" id="ed1-arvores" role="tabpanel" aria-labelledby="ed1-arvores-tab">
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/5-arvores/index.html">JS/HTML</a><br/>
+    Vídeo no PeerTube (stream via webtorrent): https://pertur.be/w/37YGcRBgkGcS9zwapuB36m<br/>
+    <iframe src="https://pertur.be/videos/embed/37YGcRBgkGcS9zwapuB36m" style="min-height: 400px; width: 100%;" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen"></iframe>
+    <!--
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Yd6Wda879Q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    -->
   </div>
   <div class="tab-pane" id="ed1-dicionarios" role="tabpanel" aria-labelledby="ed1-dicionarios-tab">
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/6-dicionarios/index.html">JS/HTML</a><br/>
+    Vídeo no PeerTube (stream via webtorrent): https://pertur.be/w/wW5iJVM1UqWVtEhhcKFvyA<br/>
+    <iframe src="https://pertur.be/videos/embed/wW5iJVM1UqWVtEhhcKFvyA" style="min-height: 400px; width: 100%;" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen"></iframe>
+    <!--
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_jx6sMQyf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    -->
   </div>
   <div class="tab-pane" id="ed1-heap" role="tabpanel" aria-labelledby="ed1-heap-tab">
     Aula em <a target="_blank" href="https://igormcoelho.github.io/curso-estruturas-de-dados-i/slides/7-filas-prioridade/index.html">JS/HTML</a><br/>
+    Vídeo (1/2) no PeerTube (stream via webtorrent): https://pertur.be/w/7xnHp2TDjXK68EQqrX8bQR<br/>
+    <iframe src="https://pertur.be/videos/embed/7xnHp2TDjXK68EQqrX8bQR" style="min-height: 400px; width: 100%;" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen">
+    </iframe>
+    Vídeo (2/2) no PeerTube (stream via webtorrent): https://pertur.be/w/m4wFX7SbUDDJMMHMqoybUB<br/>
+    <iframe src="https://pertur.be/videos/embed/m4wFX7SbUDDJMMHMqoybUB" style="min-height: 400px; width: 100%;" frameborder="0" sandbox="allow-same-origin allow-scripts" allowfullscreen="allowfullscreen">
+    </iframe>
+    <!--
     YouTube Parte 1/2<br/>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/SA-RgtmLWkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br/>
     YouTube Parte 2/2<br/>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/q0kRz4oz_7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    -->
   </div>
 </div>
