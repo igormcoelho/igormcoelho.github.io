@@ -30,6 +30,8 @@ alert ("The language is: " + userLang);
 -->
 <script type="text/javascript" src="/assets/js/call_swal.js" ></script>
 
+<a rel="me" href="https://mastodon.online/@igormcoelho">mastodon.online/@igormcoelho</a>
+
 <!--
 <hr/>
 
