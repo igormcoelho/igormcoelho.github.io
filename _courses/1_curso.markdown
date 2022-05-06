@@ -19,7 +19,7 @@ Até 2021, vídeos eram hospedados no YouTube. Em busca de maior transparência 
 a partir de 2022, somente plataformas descentralizadas e federadas serão utilizadas.
 Portanto, utilizamos o protocolo PeerTube, com vídeos hospedados no canal [https://pertur.be/c/curso_estruturas_de_dados_i/](https://pertur.be/c/curso_estruturas_de_dados_i/videos) e redistribuídos via tecnologia webtorrent.
 
-Para Android, recomendo o aplicativo livre [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) disponibilizado no f-droid, que toca vídeos do YouTube e PeerTube.
+Para Android, recomendo os aplicativos livres disponibilizado no f-droid como [Fedilab](https://f-droid.org/app/fr.gouv.etalab.mastodon) (para PeerTube e Mastodon) ou [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (para vídeos do YouTube e PeerTube). *OBS: o Fedilab também tem versão paga na Google Play.
 
 Desculpem eventuais erros, em breve pretendo refazê-los com uma qualidade melhor (processo contínuo de revisão).
 
