@@ -15,11 +15,13 @@ Materiais didáticos são disponibilizados sob licenças [CreativeCommons](https
 - licença para materiais em texto/slides: [Atribuição - CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - licença para materiais em vídeo: [Atribuição, Não Comercial e Sem Derivações - CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-<!--
-Até 2021, vídeos eram hospedados no YouTube. Em busca de maior transparência e portabilidade,
+Até 2021, vídeos eram hospedados no YouTube. 
+Em busca de maior transparência e portabilidade,
 a partir de 2022, somente plataformas descentralizadas e federadas serão utilizadas.
 Portanto, utilizamos o protocolo PeerTube, com vídeos hospedados no canal [https://pertur.be/c/curso_estruturas_de_dados_i/](https://pertur.be/c/curso_estruturas_de_dados_i/videos) e redistribuídos via tecnologia webtorrent.
--->
+
+Por ser um serviço gratuito e federado, ele pode não estar disponível. 
+Veja [https://peertube.fediverse.observer/pertur.be](https://peertube.fediverse.observer/pertur.be).
 
 Para Android, recomendo os aplicativos livres disponibilizado no f-droid como [Fedilab](https://f-droid.org/app/fr.gouv.etalab.mastodon) (para PeerTube e Mastodon) ou [NewPipe](https://f-droid.org/en/packages/org.schabi.newpipe/) (para vídeos do YouTube e PeerTube). *OBS: o Fedilab também tem versão paga na Google Play.
 
