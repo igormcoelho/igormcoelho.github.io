@@ -21,8 +21,6 @@ news_limit: 5
 
 **Português (pt-br)**
 
-_Em construção / Under Construction_
-
 Professor Adjunto no [Instituto de Computação](https://www.ic.uff.br) da [Universidade Federal Fluminense](https://www.uff.br).
 
 Endereço Profissional: Av. Gal. Milton Tavares de Souza,, s/n - São Domingos, Niterói - RJ, 24210-346
@@ -32,12 +30,7 @@ Listagens públicas: [Currículo Lattes](http://lattes.cnpq.br/5298061910591710)
 Coordenador do Grupo de Pesquisa em Algoritmos e Logística Descentralizada (ALODE) - [github](https://github.com/gp-alode) [DGP CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/3349181323652323).
 
 ----
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ Desenvolve pesquisas e produtos na linha de metaheurísticas para problemas combinatórios e paralelização de algoritmos utilizando GPUs, aprendizado de máquina e tecnologias blockchain. Orgulhosamente, co-fundador de diversos projetos livres: OptFrame, um arcabouço computacional em C++ para metaheurísticas e algoritmos de otimização; SciChain, plataforma distribuída para publicações científicas. Autor de textos de ciência e tecnologia, veja no [Medium](https://igormcoelho.medium.com) e também na aba de [Materiais](/materiais/).
 
 <hr/>
 
