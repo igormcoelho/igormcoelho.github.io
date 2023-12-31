@@ -22,3 +22,4 @@ Veja mais em [Cursos](/cursos/).
 
 - Para entender melhor sobre publicação científica de qualidade, no escopo de Ciência da Computação, veja meus slides (em inglês): ["Guidelines for Academic Publications and Research: 
 Brazilian & Computing Perspective"](https://docs.google.com/presentation/d/1sGWK1yevvdWYNclyf3RPzOyfs3bUbQX-NcOCMbe9sdU/edit?usp=sharing).
+   * DOI: https://zenodo.org/records/10447816
