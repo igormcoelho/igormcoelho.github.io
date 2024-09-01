@@ -129,6 +129,7 @@ keep_files:
   - CNAME
   - .nojekyll
   - .git
+  - .well-known
 
 # Plug-ins
 plugins:
