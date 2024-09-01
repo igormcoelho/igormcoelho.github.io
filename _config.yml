@@ -116,7 +116,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages', '.well-known']
 exclude:
   - _pages/generate_all_papers.md
   - _pages/generate_selected_papers.md
